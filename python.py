@@ -1,5 +1,12 @@
 import random
 
+print("Welcome to the Dice Game")
+print("Rules: ")
+print("1. Each player will roll the dice alternatively.")
+print("2. The player who reaches first to 20 points wins the game.")
+print("3. If you want to exit the game, press 2.")
+print("4. If you roll the dice, the number will be added to your score.")
+print("Game Begins.")
 
 Player_One = input("Player 1 Enter your name: ")
 Player_Two = input("Player 2 Enter your name: ")
